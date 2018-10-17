@@ -29,7 +29,7 @@ class SecondVC: UIViewController {
         
         emailtxt.text=email
         fullnametxt.text=fullname
-     
+     //hello
     
     }
     
